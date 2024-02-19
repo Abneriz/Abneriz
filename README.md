@@ -8,7 +8,7 @@ I'm a Full Stack Developer specialized in Python, with experience in HTML, CSS, 
 - 👀 I'm interested in technology.
 - 🌱 Currently learning Javascript.
 - 💞 Seeking to collaborate on projects that have a positive impact on others.
-- 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abnerernestoizaguirre@gmail.com)
+- 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)    [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abnerernestoizaguirre@gmail.com)
 
 ## ⚡ Technologies
 
