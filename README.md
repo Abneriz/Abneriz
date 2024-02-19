@@ -5,7 +5,7 @@ Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML
 - 👀 Estoy interesado en la tecnología.
 - 🌱 Actualmente estoy aprendiendo Javascript.
 - 💞 Busco colaborar en proyectos que tengan un impacto positivo hacia los demás.
-- 📫 Cómo contactarme: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)
+- 📫 Cómo contactarme:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abnerernestoizaguirre@gmail.com)
 
 ## ⚡ Technologies
 
