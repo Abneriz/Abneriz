@@ -2,6 +2,9 @@
 
 Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML, CSS, POO, Numpy, Pandas y Django. Mi enfoque combina habilidades técnicas con conocimientos en desarrollo web y análisis de datos. Creo y mantengo sitios y aplicaciones, centrándome en la optimización de la experiencia del usuario y la eficiencia del procesamiento de datos.
 
+## Sobre mi
+
+- 💻 Desarrollador Full Stack
 - 👀 Estoy interesado en la tecnología.
 - 🌱 Actualmente estoy aprendiendo Javascript.
 - 💞 Busco colaborar en proyectos que tengan un impacto positivo hacia los demás.
@@ -17,3 +20,7 @@ Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## Idiomas y Herramientas
+
+[![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerIzaguirre)](https://github.com/anuraghazra/github-readme-stats)
