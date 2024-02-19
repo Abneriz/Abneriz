@@ -1,14 +1,11 @@
 # 👋 Hola, soy @Abner
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
 Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML, CSS, POO, Numpy, Pandas y Django. Mi enfoque combina habilidades técnicas con conocimientos en desarrollo web y análisis de datos. Creo y mantengo sitios y aplicaciones, centrándome en la optimización de la experiencia del usuario y la eficiencia del procesamiento de datos.
 
 - 👀 Estoy interesado en la tecnología.
 - 🌱 Actualmente estoy aprendiendo Javascript.
 - 💞 Busco colaborar en proyectos que tengan un impacto positivo hacia los demás.
-- 📫 Cómo contactarme: ab
-- 😄 Pronombres: [indica tus pronombres preferidos, por ejemplo, él/ella/ellos/ellas].
+- 📫 Cómo contactarme: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)
 
 ## ⚡ Technologies
 
