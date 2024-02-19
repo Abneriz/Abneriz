@@ -1,14 +1,16 @@
-# 👋 Hola, soy @Abner
+# 👋 Hello, I'm @Abner
 
-Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML, CSS, POO, Numpy, Pandas y Django. Mi enfoque combina habilidades técnicas con conocimientos en desarrollo web y análisis de datos. Creo y mantengo sitios y aplicaciones, centrándome en la optimización de la experiencia del usuario y la eficiencia del procesamiento de datos.
+I'm a Full Stack Developer specialized in Python, with experience in HTML, CSS, OOP, Numpy, Pandas, and Django. My approach combines technical skills with knowledge in web development and data analysis. I create and maintain websites and applications, focusing on optimizing user experience and data processing efficiency.
 
-## Sobre mi
+## About me
 
-- 💻 Desarrollador Full Stack
-- 👀 Estoy interesado en la tecnología.
-- 🌱 Actualmente estoy aprendiendo Javascript.
-- 💞 Busco colaborar en proyectos que tengan un impacto positivo hacia los demás.
-- 📫 Cómo contactarme:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abnerernestoizaguirre@gmail.com)
+- 💻 Full Stack Developer
+- 👀 I'm interested in technology.
+- 🌱 Currently learning Javascript.
+- 💞 Seeking to collaborate on projects that have a positive impact on others.
+- 📫 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ernesto-izaguirre)  
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abnerernestoizaguirre@gmail.com)
 
 ## ⚡ Technologies
 
@@ -21,10 +23,10 @@ Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Idiomas y Herramientas
+## Languages and Tools
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abneriz&show_icons=true&locale=es&layout=compact" alt="abneriz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abneriz&show_icons=true&locale=en&layout=compact" alt="abneriz" />
 </p>
 
 <p>
@@ -32,5 +34,5 @@ Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abneriz&" alt="abneriz" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abneriz&" alt="abneriz" />
 </p>
