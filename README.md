@@ -23,4 +23,18 @@ Soy un Desarrollador Full Stack especializado en Python, con experiencia en HTML
 
 ## Idiomas y Herramientas
 
-[![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerIzaguirre)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abneriz&label=Profile%20views&color=0e75b6&style=flat" alt="abneriz" /> </p>
+
+<h3 align="left">Conéctate conmigo:</h3>
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abneriz&show_icons=true&locale=es&layout=compact" alt="abneriz" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abneriz&show_icons=true&locale=en" alt="abneriz" />
+</p>>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abneriz&" alt="abneriz" />
+</p>
